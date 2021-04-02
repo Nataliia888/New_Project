@@ -1,16 +1,15 @@
 # Site settings
-title: Abraham Musa
-description: Jekyll Theme Minimal Resume
+title: Nataliia Zdrok
+description: AWS cloud practitioner
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://abraham-musa.github.io/abraham-musa/
+url: https://github.com/Nataliia888
 
 # User settings
-username: Abraham Musa
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
-user_title: Cloud Engineer & Architect
-email: abraham.musa@gmail.com
-twitter_username: abraham-musa
-github_username:  abraham-musa
+username: Nataliia Zdrok
+user_description: CompTIA Security+ and CompTIA Network+ certified professional currently focusing on AWS deep learning.
+user_title: AWS Cloud Practitioner
+email: dev.p.zdrok@gmail.com
+github_username: Nataliia888
 # gplus_username:  lorem_ipsum
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ["package.json", "src", "node_modules"]
